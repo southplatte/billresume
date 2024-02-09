@@ -1,0 +1,8 @@
+.hero-bg{
+    background-image: url("../images/hd-bg.jpeg"); 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+#skills > ul{
+    list-style: none;
+}
